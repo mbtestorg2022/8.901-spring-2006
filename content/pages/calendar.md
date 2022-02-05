@@ -4,31 +4,397 @@ title: Calendar
 uid: 494a7d71-5d3c-5a6a-6777-d4cb9e5519e9
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction |  |
-| 2 | Kepler Problem  {{< br >}}  {{< br >}}Binaries |  |
-| 3 | Stellar Distances  {{< br >}}  {{< br >}}Coordinates  {{< br >}}  {{< br >}}Magnitudes |  |
-| 4 | Color-color Diagrams  {{< br >}}  {{< br >}}Spectral/Luminosity Classes | Problem set 1 due |
-| 5 | Saha Equation |  |
-| 6 | Radiation  {{< br >}}  {{< br >}}Opacity  {{< br >}}  {{< br >}}Radiative Diffusion |  |
-| 7 | Equations of Stellar Structure  {{< br >}}  {{< br >}}Convection | Problem set 2 due |
-| 8 | Convection (cont.)  {{< br >}}  {{< br >}}Modeling  {{< br >}}  {{< br >}}Polytropes  {{< br >}}  {{< br >}}Energy Sources |  |
-| 9 | Nuclear Reaction Rates  {{< br >}}  {{< br >}}Hydrogen Burning: pp, CNO | Problem set 3 due |
-| 10 | H/He Burning  {{< br >}}  {{< br >}}Nucleosynthesis  {{< br >}}  {{< br >}}Low-M Stars |  |
-| 11 | Stellar Evolution: Lower Main Sequence  {{< br >}}  {{< br >}}Cluster H-R |  |
-| 12 | S-C Limit  {{< br >}}  {{< br >}}Solar Neutrinos  {{< br >}}  {{< br >}}Degenerate Matter | Problem set 4 due |
-| 13 | Midterm Exam |  |
-| 14 | Degenerate Matter  {{< br >}}  {{< br >}}Chandra Mass  {{< br >}}  {{< br >}}White Dwarfs |  |
-| 15 | White Dwarf Cooling  {{< br >}}  {{< br >}}Intrinsically Variable Stars | Problem set 5 due |
-| 16 | Upper Main Sequence: Evolution of Massive Stars |  |
-| 17 | Supernovae  {{< br >}}  {{< br >}}Collapsars  {{< br >}}  {{< br >}}GRBs | Problem set 6 due |
-| 18 | Neutron Stars  {{< br >}}  {{< br >}}Pulsars (Guest Lecturer: David Kaplan) | Problem set 7 due |
-| 19 | Sun as a Star (Guest Lecturer: Justin Kasper) |  |
-| 20 | Gravitational Radiation (Guest Lecturer: Ryan Lang) | Problem set 8 due |
-| 21 | Close Binaries  {{< br >}}  {{< br >}}Accretion Disks |  |
-| 22 | Cepheid Variables  {{< br >}}  {{< br >}}X-ray Binaries | Problem set 9 due |
-| 23 | Black Holes  {{< br >}}  {{< br >}}Interstellar Medium  {{< br >}}  {{< br >}}Dust Extinction |  |
-| 24 | Star Formation  {{< br >}}  {{< br >}}Jeans Criterion  {{< br >}}  {{< br >}}IMF  {{< br >}}  {{< br >}}Brown Dwarfs | Problem set 10 due |
-| 25 | Gas in the Interstellar Medium  {{< br >}}  {{< br >}}Heating and Cooling  {{< br >}}  {{< br >}}21 cm and CO |  |
-| 26 | Shocks  {{< br >}}  {{< br >}}Supernova Remnants |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Kepler Problem  
+  
+Binaries
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Stellar Distances  
+  
+Coordinates  
+  
+Magnitudes
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Color-color Diagrams  
+  
+Spectral/Luminosity Classes
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Saha Equation
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Radiation  
+  
+Opacity  
+  
+Radiative Diffusion
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Equations of Stellar Structure  
+  
+Convection
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Convection (cont.)  
+  
+Modeling  
+  
+Polytropes  
+  
+Energy Sources
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Reaction Rates  
+  
+Hydrogen Burning: pp, CNO
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+H/He Burning  
+  
+Nucleosynthesis  
+  
+Low-M Stars
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Stellar Evolution: Lower Main Sequence  
+  
+Cluster H-R
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+S-C Limit  
+  
+Solar Neutrinos  
+  
+Degenerate Matter
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Exam
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Degenerate Matter  
+  
+Chandra Mass  
+  
+White Dwarfs
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+White Dwarf Cooling  
+  
+Intrinsically Variable Stars
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Upper Main Sequence: Evolution of Massive Stars
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Supernovae  
+  
+Collapsars  
+  
+GRBs
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Neutron Stars  
+  
+Pulsars (Guest Lecturer: David Kaplan)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Sun as a Star (Guest Lecturer: Justin Kasper)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Gravitational Radiation (Guest Lecturer: Ryan Lang)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Close Binaries  
+  
+Accretion Disks
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Cepheid Variables  
+  
+X-ray Binaries
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 9 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Black Holes  
+  
+Interstellar Medium  
+  
+Dust Extinction
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Star Formation  
+  
+Jeans Criterion  
+  
+IMF  
+  
+Brown Dwarfs
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 10 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Gas in the Interstellar Medium  
+  
+Heating and Cooling  
+  
+21 cm and CO
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Shocks  
+  
+Supernova Remnants
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
