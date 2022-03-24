@@ -4,7 +4,7 @@ title: Assignments
 uid: 932b82d8-6726-547f-ef58-d30b27bd602c
 ---
 
-Problem Set 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps1))
+Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps1))
 
 Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps2))
 
